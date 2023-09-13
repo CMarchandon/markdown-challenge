@@ -5,7 +5,7 @@ markdown-challenge for BeCode.org
 
 _“Sometimes we have to go deep inside ourselves to solve our problems.”_ – Patrick Star.
 
-![Litteraly mmy linkedin pic](https://media.licdn.com/dms/image/D4E03AQH-e9W4Auymow/profile-displayphoto-shrink_800_800/0/1669729412996?e=1689811200&v=beta&t=7ugpJa_X6240m-BYU6SU64tqNldB6e0OCzVfpiiQyfM)
+![Litteraly my linkedin pic](https://media.licdn.com/dms/image/D4E03AQH-e9W4Auymow/profile-displayphoto-shrink_800_800/0/1669729412996?e=1689811200&v=beta&t=7ugpJa_X6240m-BYU6SU64tqNldB6e0OCzVfpiiQyfM)
 ## Web Developper in training at BeCode.org 
 
 |Birthday| Favorite color | Favorite food | Pineapple on pizza |
